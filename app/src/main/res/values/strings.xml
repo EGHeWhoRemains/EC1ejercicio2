@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EC1-ejercicio2</string>
+    <string name="valprestamos">Calculadora de Prestamos</string>
+    <string name="valmontoPrestamos">Ingrese el monto solicitado</string>
+    <string name="valcalcularprestamos">Calcular Cuotas y Montos</string>
+    <string name="valresultadioprestamos">Cuotas y Montos</string>
+</resources>
